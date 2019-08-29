@@ -5,6 +5,6 @@ Goal: Build foundational Python knowledge.  There's a wide range Python experien
 
 - Read all sections of https://github.com/jakevdp/WhirlwindTourOfPython except .....
 - Submit at least 3 questions or comments for potential in class discussion.  Examples:
--- Something you don't understand and want clarification
--- Errors you encountered (either from the code in the book itself or that you hit while playing with the code)
---
+ - Something you don't understand and want clarification
+ - Errors you encountered (either from the code in the book itself or that you hit while playing with the code)
+ 
