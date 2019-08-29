@@ -4,9 +4,10 @@ Hwk 2 - 2019/09/03
 Goal: Build foundational Python knowledge.  There's a wide range Python experience among you all; these reading/reflections are intended to get us all on the same page.
 
 - Read all sections of https://github.com/jakevdp/WhirlwindTourOfPython except .....
-- Submit at least 3 questions or comments for potential in class discussion.  Examples:
+- Create your googe drive folder where you will submit hwk.  Share it with me.
+- Submit at least 3 questions or comments for potential in class discussion into that folder.  Examples:
   - Something you don't understand and want clarification
-  - Errors you encountered (and hopefully) corrected)
+  - Errors you encountered (and hopefully corrected)
   - Comments you think will help someone else who is learning this for the first time.  (Keep these short are basic.  This is a WhirlWind Tour.  We are intentionally selecting only the most essential core things.  Over time, we will meet a lot of ways to accomplish these same tasks more easily and with more features; don't go into this here).
  
  
