@@ -3,7 +3,9 @@ Assignment 2 - due 2019/09/03
 
 Goal: Build foundational Python knowledge.  There's a wide range Python experience among you all; these reading/reflections are intended to get us all on the same page.
 
-- Read all sections of https://github.com/jakevdp/WhirlwindTourOfPython except .....
+- Read and understand *all* sections of https://github.com/jakevdp/WhirlwindTourOfPython *except* those below (which I view as optional, but still worth reading)
+  - Diving Deeper into Exceptions
+  - Generator Functions: Using yield
 - Create your googe drive folder where you will submit hwk.  Share it with me.
 - Submit at least 3 questions or comments for potential in class discussion into that folder.  Examples:
   - Something you don't understand and want clarification
