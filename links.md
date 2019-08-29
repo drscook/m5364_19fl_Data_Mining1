@@ -1,0 +1,3 @@
+- https://github.com/jakevdp/WhirlwindTourOfPython
+- https://github.com/jakevdp/PythonDataScienceHandbook
+- https://realpython.com/
