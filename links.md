@@ -3,7 +3,7 @@ This is a woefully incomplete list.  DO NOT restrict yourself to resources on th
 
 General Python
 - https://github.com/jakevdp/WhirlwindTourOfPython
-- https://realpython.com/ - My close friend Geir Arne Hjelle is a major contributor and always looking for new ideas for articles
+- https://realpython.com/ - My close friend Geir Arne Hjelle is a major contributor and always looking for new article ideas,
 - https://stackoverflow.com/
 
 General Data Science
