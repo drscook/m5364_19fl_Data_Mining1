@@ -7,6 +7,16 @@ This is under construction, but fairly well developed
 - Submissions:
   - Oral: 10 minute talk (to be scheduled sometime 12/2-12/12)
   - Written: Due 12/13
+    - Main - Juypter notebook
+      - Text cells for description
+      - Code cells for *key* steps only (see scripts below)
+      - Graphics
+      - Results
+      - Code
+        - Include short code snippets that do *interesting, key* data science steps in the notebook
+        - You will probably have a bunch of code that does necessary but uninteresting stuff.  Don't clutter your "report" with it.  Place it into one or more .py script files and load it from the notebook via "import" or "%load" or "%run" or equivalent.
+    - data - ideally the notebook will have code that downloads from internet source.  If impossible, include data file in your google drive folder.
+    - scripts - for large/uninteresting blocks of code that will disrupt the notebook
   - Except for Bishwas - your stuff is due 12/10 b/c graduating student grades are due earlier
 - Requirements
   - Must use at least three supervised learning algorithms and compare performance
