@@ -32,3 +32,14 @@ This is under construction, but fairly well developed
     - because we focused mainly on classifiers in first semester
     - However, many continuous target variables can be converted into categorical variables by binning (ex: high, med, low)
   - high quality graphics
+
+
+
+T 12/3/19 - in class
+Prtestyon Ward
+Nicholas Petela
+Bishwas Ghimire
+
+
+T 12/10/19
+
