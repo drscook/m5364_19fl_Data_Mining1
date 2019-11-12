@@ -25,6 +25,7 @@ This is under construction, but fairly well developed
   - Must identify and tune hyperparameters
   - Clearly describe all major decisions you had to make (ex: imputation method, performance metric, feature engineering, etc)
   - Must screen for and correct poorly conditioned data (severe bias, missing data, anomalies such as incorrectly entered data, etc)
+  - Provide class frequencies for original data
 
 - Strong preferences (exceptions must receive my explicit approval)
   - categorical target variable(s)
