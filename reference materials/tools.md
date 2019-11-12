@@ -11,7 +11,6 @@
 
 
 ## Pre-processing
-- Handle missing data
 - consistent formatting (ex: upper/lower case, float/int, ...)
 - regex
 - quality assurance (outlier detection, erroneous data, fraud, ...)
@@ -19,17 +18,17 @@
 
 ## Feature Engineering
 - Categorical -> dummy/indicator variable (ex: One-Hot-Encoding, Multi-label binarizer, ...)
+- Impute missing data
 - Rescale, remove skew (min-max rescaling, z-transform, robust transform, ...)
 - Create new variables
 - Clustering
-- k-Means
-- Gaussian Mixtures
-- Dimensionality Reduction
-- Principal Components
-- Compression techniques ***
+  - k-Means
+  - Gaussian Mixtures
+- Dimensionality Reduction/Compression techniques
+  - Principal Components
 - Natural Language embeddings
-- n-grams
-- word-to-vec
+  - n-grams
+  - word-to-vec
 
 
 ## Cross-Validation
@@ -51,7 +50,10 @@
 ## Model Performance
 - classification accuracy
 - confusion matrix
-- sensitivity, specificity, recall, F_1
+- sensitivity/recall, specificity precision, F_1, F_beta
+- Receiver-Operator Curve (ROC) curve & Area Under the Curve (AUR)
+- cost matrix
+- over/under sampling for class imbalance problems
 
 
 
