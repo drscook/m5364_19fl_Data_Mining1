@@ -17,9 +17,11 @@ This is just a starting point of some things I know I want to learn more about. 
   - TensorFlow Probability
 - Dashboards & User Interfaces
   - Voila (your Jupyter notebooks becomes a stand alone app)
+  - Tableau
 - Enhanced random forests (GradientBoost, XGBoost, lightgbm, catboost)
 - Extracting data from the web
   - Beautiful soup
+  - Selenium
   - API's (Twitter, Facebook, etc)
 - GPU integration
   - NVIDIA Rapids
@@ -32,3 +34,44 @@ More options
 - NumFOCUS sponsored projects https://numfocus.org/sponsored-projects
 - Jupyter projects https://jupyter.org/index.html
 - Other suggestions as approved
+
+
+1/22
+Soze & Shawn
+- Dashboards & User Interfaces
+  - Voila (your Jupyter notebooks becomes a stand alone app)
+  - Tableau
+  
+  
+1/29
+Preston & Shawn
+- Extracting data from the web
+  - Beautiful soup
+  - Selenium
+  - API's (Twitter, Facebook, etc)
+  
+2/5
+Toffer & Soze
+- NLP
+  - regex
+  - Word embeddings
+    - Word2Vec
+    
+    
+2/12
+Toffer & Preston
+- GPU integration
+  - NVIDIA Rapids
+  
+2/19
+Jaryd
+- Visualization
+  - This is so broad, you should select a subset of tools and run it by me
+  
+
+2/26
+Nicholas
+- Topological Data Analysis
+
+
+Bayesian - Shawn
