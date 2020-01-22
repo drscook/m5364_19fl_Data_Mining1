@@ -11,7 +11,7 @@ Following Fast.AI lesson 2, build a classifier to distinguish the following Mine
 - creeper
 - slime
 
-Please follow Jeremy's instrutions to obtain images using google images.  Get at least 100 images for each mob.  Try the various techniques he shows in the video to optimize your model.
+Please follow Jeremy's instrutions to obtain images using google images.  Get at least 50 images for each mob (I encourage you to get more).  Try the various techniques he shows in the video to optimize your model.
 
 Submit:
 - folder called "images" with subfolders for each mob
