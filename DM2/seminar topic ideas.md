@@ -44,7 +44,7 @@ Soze & Shawn
   - Tableau
   
   
-1/29
+2/3
 Preston & Shawn
 - Extracting data from the web
   - Beautiful soup
