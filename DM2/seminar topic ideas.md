@@ -44,14 +44,14 @@ Soze & Shawn
   - Tableau
   
   
-2/3
+2/5
 Preston & Shawn
 - Extracting data from the web
   - Beautiful soup
   - Selenium
   - API's (Twitter, Facebook, etc)
   
-2/5
+2/10
 Toffer & Soze
 - NLP
   - regex
