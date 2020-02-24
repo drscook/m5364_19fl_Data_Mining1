@@ -15,6 +15,7 @@ This is just a starting point of some things I know I want to learn more about. 
   - PyMC3
   - Stan
   - TensorFlow Probability
+  - PyTorch
 - Dashboards & User Interfaces
   - Voila (your Jupyter notebooks becomes a stand alone app)
   - Tableau
@@ -31,11 +32,24 @@ This is just a starting point of some things I know I want to learn more about. 
 - Strategies for selecting ANN hyperparameters (archicture, activation functions, etc)
 - AutoML
   
+  
+possible future topics:
+- GANS
+- AutoEncoders
+
 
 More options
 - NumFOCUS sponsored projects https://numfocus.org/sponsored-projects
 - Jupyter projects https://jupyter.org/index.html
 - Other suggestions as approved
+
+
+Suze 1.5
+Shawn 1.5
+Preston 1.0
+Toffer 1.5
+Jaryd 0.5
+Nicholas 
 
 
 1/22
@@ -65,15 +79,27 @@ Toffer & Preston
 - GPU integration
   - NVIDIA Rapids
   
-2/19
-Jaryd
+2/24
+Jaryd & Shawn
 - Visualization
   - This is so broad, you should select a subset of tools and run it by me
   
 
-2/26
-Nicholas
+3/4
+Nicholas & Jaryd
 - Topological Data Analysis
 
 
-Bayesian - Shawn
+Bayesian (PyMC3, Stan, PyTorch, TensorFlow Probabilty) - Shawn & Toffer
+
+AutoML - Nicholas & Toffer
+
+Cold Start Problem & Solutions - Nicholas
+
+Dask & Vaex & any other out-of-core or lazy/graph execution packages - Jaryd & Preston
+
+Random Forests & their advanced implementations (gradientboost, xgboost, lightgbm, catboost) - Suzy
+
+Zarr/pytables/zarr - Preston
+
+visualization #2 - ipyvolume, bqplot, datashader, pyqtplot, bokeh
