@@ -85,7 +85,7 @@ Jaryd & Shawn
   - This is so broad, you should select a subset of tools and run it by me
   
 
-3/4
+3/2
 Nicholas & Jaryd
 - Topological Data Analysis
 
