@@ -89,29 +89,46 @@ Nicholas & Jaryd
 
 3/16
 Shawn & Toffer
-Bayesian (PyMC3, Stan, PyTorch, TensorFlow Probabilty)
+- Bayesian
+  - PyMC3
+  - Stan
+  - PyTorch
+  - TensorFlow Probabilty
 
 3/18
 Jaryd & Preston
-Dask & Vaex & any other out-of-core or lazy/graph execution packages
+- Dask
+- Vaex
+- any other out-of-core or lazy/graph execution packages
 
 3/23
 Suzy & Shawn
-Random Forests & their advanced implementations (gradientboost, xgboost, lightgbm, catboost)
+- Random Forests
+  - Basic random forest
+  - gradientboost
+  - xgboost
+  - lightgbm
+  - catboost
 
 3/25
 Nicholas & Toffer
-AutoML
+- AutoML
 
 3/30
 Preston
-Zarr/pytables/zarr
+- file i/o
+  - Zarr
+  - pytables
+  - zarr
 
 4/1
 Nicholas
-Cold Start Problem & Solutions
+- Cold Start Problem & Solutions
 
 4/15
-Visualization part 2
-
-visualization #2 - ipyvolume, bqplot, datashader, pyqtplot, bokeh
+- Visualization part 2
+  - bokeh
+  - ipyvolume
+  - bqplot
+  - datashader
+  - pyqtplot
