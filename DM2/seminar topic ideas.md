@@ -29,6 +29,7 @@ This is just a starting point of some things I know I want to learn more about. 
   - This is so broad, you should select a subset of tools and run it by me
 - Cold Start Problem & solutions
 - Strategies for selecting ANN hyperparameters (archicture, activation functions, etc)
+- AutoML
   
 
 More options
