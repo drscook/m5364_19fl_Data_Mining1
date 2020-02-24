@@ -59,22 +59,21 @@ Soze & Shawn
   - Tableau
   
   
-2/5
+2/10
 Preston & Shawn
 - Extracting data from the web
   - Beautiful soup
   - Selenium
   - API's (Twitter, Facebook, etc)
   
-2/10
+2/12 & 2/17
 Toffer & Soze
 - NLP
   - regex
   - Word embeddings
     - Word2Vec
-    
-    
-2/12
+
+2/19
 Toffer & Preston
 - GPU integration
   - NVIDIA Rapids
@@ -83,23 +82,36 @@ Toffer & Preston
 Jaryd & Shawn
 - Visualization
   - This is so broad, you should select a subset of tools and run it by me
-  
 
 3/2
 Nicholas & Jaryd
 - Topological Data Analysis
 
+3/16
+Shawn & Toffer
+Bayesian (PyMC3, Stan, PyTorch, TensorFlow Probabilty)
 
-Bayesian (PyMC3, Stan, PyTorch, TensorFlow Probabilty) - Shawn & Toffer
+3/18
+Jaryd & Preston
+Dask & Vaex & any other out-of-core or lazy/graph execution packages
 
-AutoML - Nicholas & Toffer
+3/23
+Suzy & Shawn
+Random Forests & their advanced implementations (gradientboost, xgboost, lightgbm, catboost)
 
-Cold Start Problem & Solutions - Nicholas
+3/25
+Nicholas & Toffer
+AutoML
 
-Dask & Vaex & any other out-of-core or lazy/graph execution packages - Jaryd & Preston
+3/30
+Preston
+Zarr/pytables/zarr
 
-Random Forests & their advanced implementations (gradientboost, xgboost, lightgbm, catboost) - Suzy
+4/1
+Nicholas
+Cold Start Problem & Solutions
 
-Zarr/pytables/zarr - Preston
+4/15
+Visualization part 2
 
 visualization #2 - ipyvolume, bqplot, datashader, pyqtplot, bokeh
