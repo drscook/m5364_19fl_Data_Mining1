@@ -116,6 +116,16 @@ Nicholas & Toffer
 - AutoML
 
 3/30
+Shawn & Jaryd
+- Visualization part 2
+  - bokeh
+  - ipyvolume
+  - bqplot
+  - datashader
+  - pyqtplot
+
+
+4/6
 Preston
 - Modern Python file i/o
   - Zarr
@@ -126,10 +136,3 @@ Preston
 Nicholas
 - Cold Start Problem & Solutions
 
-4/15
-- Visualization part 2
-  - bokeh
-  - ipyvolume
-  - bqplot
-  - datashader
-  - pyqtplot
