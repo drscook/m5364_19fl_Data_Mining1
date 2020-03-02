@@ -120,7 +120,7 @@ Preston
 - Modern Python file i/o
   - Zarr
   - pytables
-  - zarr
+  - HDF5
 
 4/1
 Nicholas
