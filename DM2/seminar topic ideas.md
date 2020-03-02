@@ -3,7 +3,7 @@ Seminar topic ideas
 This is just a starting point of some things I know I want to learn more about.  Under most topics, I have listed a few tools that I know about already, but I'm guessing that there are new & improved options.  There are MANY more legitiamte topics - please propose them.
 
 
-- NLP
+- Natural Lanuage Processing (NLP)
   - regex
   - Word embeddings
     - Word2Vec
@@ -61,21 +61,21 @@ Soze & Shawn
   
 2/10
 Preston & Shawn
-- Extracting data from the web
+- Web Scraping
   - Beautiful soup
   - Selenium
   - API's (Twitter, Facebook, etc)
   
 2/12 & 2/17
 Toffer & Soze
-- NLP
+- Natural Language Processing
   - regex
   - Word embeddings
     - Word2Vec
 
 2/19
 Toffer & Preston
-- GPU integration
+- GPU based data science
   - NVIDIA Rapids
   
 2/24
@@ -97,9 +97,10 @@ Shawn & Toffer
 
 3/18
 Jaryd & Preston
-- Dask
-- Vaex
-- any other out-of-core or lazy/graph execution packages
+- Out-of-Core processing
+  - Dask
+  - Vaex
+  - any other out-of-core or lazy/graph execution packages
 
 3/23
 Suzy & Shawn
@@ -116,7 +117,7 @@ Nicholas & Toffer
 
 3/30
 Preston
-- file i/o
+- Modern Python file i/o
   - Zarr
   - pytables
   - zarr
